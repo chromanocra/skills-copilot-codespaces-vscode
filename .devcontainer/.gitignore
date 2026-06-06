@@ -1,0 +1,14 @@
+# Ignore local devcontainer artifacts and editor state
+.vscode/
+.env
+.env.*
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+tmp/
+git-logs/
+git-objects/
+git
